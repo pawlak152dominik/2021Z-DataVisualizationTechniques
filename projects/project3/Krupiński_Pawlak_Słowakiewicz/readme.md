@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 Link do aplikacji: https://denkakai.shinyapps.io/apptwd3/
 
 Jak uzyskać token do danych z serwisu Spotify ?
